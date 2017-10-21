@@ -1,0 +1,5 @@
+.vimrc
+*.swp
+tags
+compile_commands.json
+.clang_complete
