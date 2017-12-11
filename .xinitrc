@@ -1,4 +1,5 @@
 #!/bin/sh
 
-~/.fehbg &
+feh --randomize --bg-fill ~/.wallpaper/* &
+xbindkeys &
 exec i3

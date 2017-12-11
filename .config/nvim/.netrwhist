@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/home/jones/.config/nvim/plugged/vim-material-monokai'
+let g:netrw_dirhist_2='/home/jones/.config/nvim/plugged/vim-material-monokai/colors'
+let g:netrw_dirhist_3='/home/jones/.config/nvim/plugged/vim-material-monokai'
+let g:netrw_dirhist_4='/home/jones/.config/nvim/plugged/vim-material-monokai/colors'
+let g:netrw_dirhist_5='/home/jones/.config/nvim/plugged/vim-material-monokai'
+let g:netrw_dirhist_6='/home/jones/.config/nvim/plugged/vim-material-monokai/colors'

@@ -24,8 +24,8 @@
 *.color12:      #009ddc
 
 ! magenta
-*.color5:       #98005d
-*.color13:      #98005d
+*.color5:       #b933cc
+*.color13:      #b933cc
 
 ! cyan
 *.color6:       #85cebc
@@ -47,8 +47,8 @@ URxvt*scrollTtyKeypress: true
 
 URxvt*scrollBar: false
 
-URxvt*font: xft:Source Code Pro:pixelsize=11
-URxvt*boldFont: xft:Source Code Pro:pixelsize=11
+URxvt*font: xft:SourceCodePro:pixelsize=11
+URxvt*boldFont: xft:SourceCodePro:pixelsize=11
 URxvt*letterSpace: -1
 
 URxvt.keysym.Control-Up:   \033[1;5A
